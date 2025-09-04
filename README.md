@@ -38,7 +38,7 @@ Ejemplo:
  
 ---
 
-## 🚀 Cómo contribuir
+## 🚀 ¿Cómo contribuir?
 ¿Quieres agregar material?
 1. Haz un **fork** del repositorio.  
 2. Crea una carpeta en la sección correspondiente (`charlas/` o `documentos/`).  
@@ -54,7 +54,7 @@ Ejemplo:
 ---
 
 ## 📅 Próximas charlas
-- **Introducción a Git** (04 de septiembre 2025)  
+- **Introducción a Git** (04 de septiembre 2025 20:00 hora de Chile)  
 
 *(¡Agrega aquí tu propuesta!)*
 
